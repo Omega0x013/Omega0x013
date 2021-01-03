@@ -1,5 +1,4 @@
-# :wave: Hello!
+- <img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png" width="16" height="16"/> [Stack Overflow](https://stackoverflow.com/users/11902648/)
+- [Reddit](https://reddit.com/u/Omega0x013)
 
-- [Stack Overflow](https://stackoverflow.com/users/11902648/)
-
-My name is Alexander Bielby and I'm a :school: student in the :gb: UK. A few year ago I would've listed the number of languages I know, but I realised it doesn't matter, because I'm no longer an expert in python or any language, I'm OK with all.
+My name is Alexander Bielby and I'm a UK Student
