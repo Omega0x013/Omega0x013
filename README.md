@@ -1,2 +1,2 @@
-# omega0x013.gitub.io
-Going to be a game or something, idk
+# omega0x013.github.io
+Don't know what this will become, but it might be interesting
